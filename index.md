@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Mit Phanase
 
 ## Automation & Data Engineer | AI & Optimization
